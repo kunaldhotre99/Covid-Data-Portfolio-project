@@ -7,7 +7,7 @@ Finally creating a view to act as an pipeline between tableau and Postgress SQL.
 
 Here in this project, I have tried to explore as much as possible on the dataset and created a view to help the visulaisation process in powerBI later.
 
-I have used python to clean the data a bit since the date column was a string datatype and for that i converted into datetime format and then changed the format based on the requirement for Postgress SQL.
+I have used python to clean the data a bit since the date column was a string datatype and for that i converted into datetime format and then changed the format based on the requirement for Postgres SQL.
 
 ## Acknowledgements
 
@@ -28,17 +28,17 @@ I have used it to select or filter the data based on country.
     b. max() - used to get the maximum value of the column.
     c. count() - used to count the values.
 
-4. join() - Used to join two tables in a postgress database.
+4. join() - Used to join two tables in a postgres database.
 
 5. CTE - Common table expression which is a temporary named result set that can refer with in a Select, insert, update or delete Statement.
 The CTE can also be used in view, like i have shown below.
 
-6. Python Datetime package - used tit convert the date which was in string format to date format and also changed the format as required by the postgress datatype.
+6. Python Datetime package - used to convert  date which was in string format to date format and also changed the format.
 
   
 ## Authors
 
-- [@manojrenukumar](https://github.com/manojrenukumar)
+- [@kunaldhotre99](https://github.com/kunaldhotre99)
 
   
 ## Badges
@@ -52,7 +52,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
   
 ## Tech Stack
 
-**Client:** PostgressSQL14, Tableau
+**Client:** PostgressSQL14, PowerBI
 
 **Server:** PostgressSQL14
 
