@@ -1,13 +1,13 @@
 
 # Covid Data Exploration project
 
-The main objective of this project is to explore the data of covid globaly and an intention of using all my data exploration and SQL skills.
-In this project, the exploration is about total deaths, total cases, total deaths, vaccinations per population of a country, continent etc.
+The main objective of this project is to explore the covid data globaly with an intention of using all my data exploration and SQL skills.
+In this project, the exploration is about total deaths, total cases, vaccinations per population of a country, continent etc.
 Finally creating a view to act as an pipeline between tableau and Postgress SQL.
 
-Here in this project, I have tried to explore as much as possible on the dataset and created to a view to help the visulaisation process in tableau later.
+Here in this project, I have tried to explore as much as possible on the dataset and created a view to help the visulaisation process in powerBI later.
 
-I have used python to clean a data a bit since the date column was a string datatype and for that i converted into datatime format and then changed the format based on the requirement for Postgress SQL.
+I have used python to clean the data a bit since the date column was a string datatype and for that i converted into datetime format and then changed the format based on the requirement for Postgress SQL.
 
 ## Acknowledgements
 
